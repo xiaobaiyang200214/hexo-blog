@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-03-25T13:12:15.168Z</updated>
+  <updated>2024-03-25T13:37:06.217Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://example.com/0.html"/>
     <id>http://example.com/0.html</id>
     <published>2024-03-24T13:25:39.894Z</published>
-    <updated>2024-03-25T13:12:15.168Z</updated>
+    <updated>2024-03-25T13:37:06.217Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1><p>阿斯顿发顺丰<em><strong>果然是</strong></em></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1><p>阿斯顿发顺丰<em><strong>果然是</strong></em></p><p>*这是一个链接<a href="www.baidu.com" title="百科全书">baidu</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;h1 id=&quot;测试文章&quot;&gt;&lt;a href=&quot;#测试文章&quot; class=&quot;headerlink&quot; title=&quot;测试文章&quot;&gt;&lt;/a&gt;测试文章&lt;/h1&gt;&lt;p&gt;阿斯顿发顺丰&lt;em&gt;&lt;strong&gt;果然是&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-</summary>
+&lt;p&gt;*这是一个链接&lt;a href=&quot;www</summary>
       
     
     
