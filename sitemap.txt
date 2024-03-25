@@ -1,2 +1,3 @@
-http://example.com/undefined.html
+http://example.com/0.html
+http://example.com/4a17b156.html
 http://example.com/
